@@ -35,7 +35,7 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fiscal-Eloy-Alfaro Sagado  donde me gradue en el año 20017, de la especialidad de Informatica, apenas me gradue viaje a Guayaquil para seguir mis estudios universitarios.</p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fiscal-Eloy-Alfaro donde me gradue en el año 2017, de la especialidad de Informatica.</p>
                    <p class="eys-parrafo">A lo que obtenga el título en la mano decidire ponerme a trabajar.</p>
 <p class="eys-parrafo"> Ingrese a la Universidad para aprender mas y para seguir mis estudios.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
@@ -83,7 +83,7 @@ include("marco-left.php")
 
  document.title="Stalin"; 
 document.getElementById("foto").src="./images/stalin.png";
-document.getElementById("elnombre").innerHTML="Stalin Francis";
+document.getElementById("elnombre").innerHTML="Garcia Joshuany";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
