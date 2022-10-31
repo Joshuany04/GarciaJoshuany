@@ -27,7 +27,7 @@ include("marco-right.php");
                    <p class="eys-parrafo">Hola, yo soy Joshuany Garcia,estudiante de la universidad tecnica de Esmeraldas "Luis Vargas Torres" 
                     Estuy cruzando por el 7mo semestre y deseo graduarme para obtener mi titulo y poder laborar. </p>
                    <p class="eys-parrafo"> Mis deseos desde mis estudios secundiaros eran estudiar medicina general. </p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
+<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b> </p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
@@ -35,7 +35,7 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fiscal-Eloy-Alfaro donde me gradue en el año 2017, de la especialidad de Informatica.</p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fiscal-Eloy-Alfaro donde me gradue en el año 2017, de la especialidad de Informatica</p>
                    <p class="eys-parrafo">A lo que obtenga el título en la mano decidire ponerme a trabajar.</p>
 <p class="eys-parrafo"> Ingrese a la Universidad para aprender mas y para seguir mis estudios.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
